@@ -3,7 +3,7 @@
 A responsive, JavaScript-powered contact form built as part of my front-end web development learning journey.  
 This form validates user input without reloading the page and provides user feedback in a clean UI.
 
-🌐 **Live Preview:** *(add your GitHub Pages URL here if deployed)*  
+🌐 **Live Preview:** https://nikhilgamingff8-cyber.github.io/contact-form/
 📁 **Repository:** https://github.com/nikhilgamingff8-cyber/contact-form
 
 ---
